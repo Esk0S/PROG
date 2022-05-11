@@ -1,0 +1,2 @@
+delim: +
+paths: smb://192.1ccc68.1.1/test+http://org.ru.my.site.com/Wi?ndows/+http://192.500.1.1.122/test+ftp://my.net/m/n/k.txt+http://mysrv.com/Windows/egegeheheh/yykutyjtyj/thegthtrjy/ukytrgv/retyjkutkjnb/wrgtynbe/rynutkghbve/ghytyjhegrfvbnyrt/hth/rehhf/erhetfgethfg/ethjyjrfghr/yhgtyjhedg/nyjrtegvbgnrtgvb/tmyrjthgbhyjyrtd/gbrjyytgbnrtyrg/bhrjtg54trhy4er/th64thy4rthy/4t4ht/4h4/th46th4h+smb://192.168.1.1/test+http://mysrv.com/Windows/
